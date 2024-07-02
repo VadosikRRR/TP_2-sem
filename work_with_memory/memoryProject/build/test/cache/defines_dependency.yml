@@ -1,0 +1,7 @@
+---
+src/memory.c:
+- TEST
+src/pool_allocator.c:
+- TEST
+src/binary_tree.c:
+- TEST

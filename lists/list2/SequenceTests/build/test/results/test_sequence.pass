@@ -1,0 +1,50 @@
+---
+:source:
+  :path: test
+  :file: test_sequence.c
+:successes:
+- :test: test_simple_1
+  :line: 13
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_2
+  :line: 25
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_3
+  :line: 37
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_4
+  :line: 49
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_5
+  :line: 61
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_6
+  :line: 73
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_7
+  :line: 85
+  :message: ''
+  :unity_test_time: 0
+- :test: test_simple_8
+  :line: 97
+  :message: ''
+  :unity_test_time: 0
+- :test: test_stress
+  :line: 109
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 9
+  :passed: 9
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 2.702997904001677

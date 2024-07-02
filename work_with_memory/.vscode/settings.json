@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "functional": "c",
+        "memory.h": "c",
+        "stdio.h": "c",
+        "binary_tree.h": "c",
+        "pool_allocator.h": "c"
+    }
+}
